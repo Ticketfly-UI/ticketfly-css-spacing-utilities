@@ -26,6 +26,9 @@
   "homepage": "https://github.com/Ticketfly-UI/ticketfly-css-spacing-utilities",
   "author": "Brian Sipple <@Brian_Sipple>",
   "license": "MIT",
+  "dependencies": {
+    "ticketfly-css-spacing-variables": "^0.0.3"
+  },
   "devDependencies": {
     "cssnano": "^3.9.1",
     "del-cli": "^0.2.1",
