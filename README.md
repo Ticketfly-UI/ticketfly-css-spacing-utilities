@@ -32,5 +32,3 @@ yarn add ticketfly-css-spacing-utilities
 [dependencies-badge-url]: https://david-dm.org/Ticketfly-UI/ticketfly-css-spacing-utilities
 [devDependencies-badge]: https://img.shields.io/david/dev/Ticketfly-UI/ticketfly-css-spacing-utilities.svg
 [devDependencies-badge-url]: https://david-dm.org/Ticketfly-UI/ticketfly-css-spacing-utilities#info=devDependencies
-
-
