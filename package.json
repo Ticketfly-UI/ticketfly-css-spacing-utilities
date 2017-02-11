@@ -1,6 +1,6 @@
 {
   "name": "ticketfly-css-spacing-utilities",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Overflow utilities for ticketfly-css",
   "main": "build/ticketfly-css-spacing-utilities.css",
   "style": "build/ticketfly-css-spacing-utilities.css",
