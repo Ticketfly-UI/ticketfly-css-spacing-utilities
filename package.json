@@ -2,8 +2,8 @@
   "name": "ticketfly-css-spacing-utilities",
   "version": "0.0.2",
   "description": "Overflow utilities for ticketfly-css",
-  "main": "index.css",
-  "style": "index.css",
+  "main": "build/ticketfly-css-spacing-utilities.css",
+  "style": "build/ticketfly-css-spacing-utilities.css",
   "keywords": [
     "ticketfly-css",
     "ticketfly-css overflow",
@@ -16,8 +16,7 @@
     "type": "git"
   },
   "files": [
-    "CHANGELOG.md",
-    "LICENSE",
+    "build/",
     "index.css"
   ],
   "bugs": {
@@ -27,7 +26,7 @@
   "author": "Brian Sipple <@Brian_Sipple>",
   "license": "MIT",
   "dependencies": {
-    "ticketfly-css-spacing-variables": "^0.0.5"
+    "ticketfly-css-spacing-variables": "^0.1.1"
   },
   "devDependencies": {
     "cssnano": "^3.9.1",
